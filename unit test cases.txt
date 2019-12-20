@@ -1,0 +1,13 @@
+Unit Test Cases
+1) verify the user has provided a valid initial selection 1-process file or 0- Exit application. Any time the user selects 0 as the option through out, the application will end.
+2) verify when user enters invalid option, he is given an option to provide a correct option
+3) verify the driver file provided by the user is a txt file and do exist. The driver file should contain the relative path for different text files
+4) verify user is requested to provide a valid driver file or an option to exit the application
+5) verify that upon providing a valid driver file, all the files are processed and the count for all the different words are displayed in alphabatical order and the names of the files which could not be processed are displayed
+6) verify the count for the individual words are correct
+7) user should be shown the option to select from the options 0-Exit application and 2-Get detail for a words
+8) verify when user enters invalid option, he is given an option to provide a correct option
+9) Upon selecting option 2, user will be requested to enter a word
+10) The details for the word will be displayed along with count detail form individual files
+11) steps 7-10 will be repeated until user selects the option 0 (exit application)
+
